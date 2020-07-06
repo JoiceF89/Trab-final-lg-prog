@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593697352 source:c:\users\usuario\desktop\fatec\alp\banco\main.c
+	<stdio.h>
+	<stdlib.h>
+
